@@ -1,0 +1,25 @@
+{
+  "name": "daybreak-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fastify": "^4.2.1",
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --trace-warnings ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangpeng7/daybreak.git"
+  },
+  "author": "yangpeng7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangpeng7/daybreak/issues"
+  },
+  "homepage": "https://github.com/yangpeng7/daybreak#readme"
+}
